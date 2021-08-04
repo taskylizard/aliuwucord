@@ -3,5 +3,14 @@
     "author": "taskylizard",
     "version": "1.0",
     "updater": "https://raw.githubusercontent.com/taskylizard/aliuwucord/main/Cherry.json",
-    "mention_highlight": 16733838
+    "color_primary_dark_400": -10166653,
+    "link": 6610563,
+    "mention_highlight": -43378,
+    "drawable_button_grey": 4367861,
+    "simple_bg_color": -14474449,
+    "color_link": -10166653,
+    "color_primary_dark_800": -14671824,
+    "primary_dark_400": 6610563,
+    "simple_bg_secondary_color": -13684928,
+    "simple_accent_color": -1814140
 }
