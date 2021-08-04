@@ -26,7 +26,7 @@ Pay nullxception's themes a visit if you like this.
 </td>
 <td> 
   <p align="center" style="padding: 10px">
-    <img alt="kawaii" src="https://i.imgur.com/ynGHIYO.png" width="320">
+    <img alt="kawaii" src="https://i.imgur.com/ynGHIYO.png" width="289">
     <br>
     <em style="color: grey">Channel/Server list.</em>
   </p> 
