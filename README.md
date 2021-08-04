@@ -24,4 +24,11 @@ Pay nullxception's themes a visit if you like this.
     <em style="color: grey">Your usual epic chat.</em>
   </p> 
 </td>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="kawaii" src="https://i.imgur.com/ynGHIYO.png" width="320">
+    <br>
+    <em style="color: grey">Channel/Server list.</em>
+  </p> 
+</td>
 </tr></table>
