@@ -9,13 +9,19 @@ Pay nullxception's themes a visit if you like this.
 > Clean, Flat, Fervent Tempo battlesuit-inspired Theme for Aliucord
 
 #### Previews
-
-- Just a preview:
-![bro get better wifi](https://taskylizard.is-terrible.xyz/r/krxq6ay8f9a.png)
-
-- Your usual chats:
-![reload goddamnit](https://taskylizard.is-terrible.xyz/r/krxq9y0l89a.png)
-
-
-
-
+<table><tr>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="reload idiot" src="https://taskylizard.is-terrible.xyz/r/krxq6ay8f9a.png" width="320">
+    <br>
+    <em style="color: grey">Just a preview™️</em>
+  </p> 
+</td>
+<td> 
+  <p align="center">
+    <img alt="owo" src="https://taskylizard.is-terrible.xyz/r/krxq9y0l89a.png" width="320">
+    <br>
+    <em style="color: grey">Your usual epic chat.</em>
+  </p> 
+</td>
+</tr></table>
