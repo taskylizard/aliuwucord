@@ -10,7 +10,12 @@ Pay nullxception's themes a visit if you like this.
 
 #### Previews
 
-- later lol.
+- Just a preview:
+![bro get better wifi](https://taskylizard.is-terrible.xyz/r/krxq6ay8f9a.png)
+
+- Your usual chats:
+![reload goddamnit](https://taskylizard.is-terrible.xyz/r/krxq9y0l89a.png)
+
 
 
 
