@@ -1,11 +1,10 @@
 { 
     "name": "Cherry",
     "author": "taskylizard",
-    "version": "1.0",
+    "version": "1.1",
     "updater": "https://raw.githubusercontent.com/taskylizard/aliuwucord/main/Cherry.json",
     "color_primary_dark_400": -10166653,
     "link": 6610563,
-    "mention_highlight": -43378,
     "drawable_button_grey": 4367861,
     "simple_bg_color": -14474449,
     "color_link": -10166653,
@@ -13,5 +12,6 @@
     "primary_dark_400": 6610563,
     "simple_bg_secondary_color": -13684928,
     "simple_accent_color": -1814140,
-    "uikit_btn_bg_color_selector_red": 6403038
+    "uikit_btn_bg_color_selector_red": 6403038,
+    "primary_700": 4367861
 }
