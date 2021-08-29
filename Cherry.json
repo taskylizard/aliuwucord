@@ -1,7 +1,7 @@
 { 
     "name": "Cherry",
     "author": "taskylizard",
-    "version": "1.3",
+    "version": "1.4",
     "updater": "https://raw.githubusercontent.com/taskylizard/aliuwucord/main/Cherry.json",
     "font": "https://cdn.discordapp.com/attachments/732742905613123722/875609276117286952/ProductSans.ttf",
     "color_primary_dark_400": -10166653,
