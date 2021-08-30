@@ -9,9 +9,8 @@ Pay nullxception's themes a visit if you like this.
 > Clean, Flat, Fervent Tempo battlesuit-inspired Theme for Aliucord.
 
 #### Preview:
->  <p align="center">
+>  <p align="left">
 >    <img alt="owo" src="assets/sshot1.jpg" width="320">
->    <em style="color: grey">Your usual epic chat.</em>
 >  </p> 
 
 ## Issues:  
