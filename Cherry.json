@@ -1,19 +1,23 @@
 { 
     "name": "Cherry",
     "author": "taskylizard",
-    "version": "1.4",
+    "version": "2.0",
     "updater": "https://raw.githubusercontent.com/taskylizard/aliuwucord/main/Cherry.json",
     "font": "https://cdn.discordapp.com/attachments/732742905613123722/875609276117286952/ProductSans.ttf",
+    "uikit_btn_bg_color_selector_red": -10374178,
+    "primary_700": -12409355,
     "color_primary_dark_400": -10166653,
     "link": 6610563,
     "drawable_button_grey": 4367861,
+    "drawablecolor_ic_spine_long_cap": -14575885,
     "simple_bg_color": -14474449,
     "color_link": -10166653,
     "color_primary_dark_800": -14671824,
-    "primary_dark_400": 6610563,
     "simple_bg_secondary_color": -13684928,
     "simple_accent_color": -1814140,
-    "uikit_btn_bg_color_selector_red": 6403038,
-    "primary_700": 4367861
-   
+    "drawablecolor_ic_channel_text": -12409355,
+    "drawablecolor_drawable_button_grey": -12409355,
+    "color_brand_560": -16516367,
+    "primary_dark_400": 6610563,
+    "drawablecolor_ic_ban_red_24dp": -1441537
 }
