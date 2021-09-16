@@ -1,23 +1,54 @@
-{ 
-    "name": "Cherry",
-    "author": "taskylizard",
-    "version": "2.0",
-    "updater": "https://raw.githubusercontent.com/taskylizard/aliuwucord/main/Cherry.json",
-    "font": "https://cdn.discordapp.com/attachments/732742905613123722/875609276117286952/ProductSans.ttf",
-    "uikit_btn_bg_color_selector_red": -10374178,
-    "primary_700": -12409355,
-    "color_primary_dark_400": -10166653,
-    "link": 6610563,
-    "drawable_button_grey": 4367861,
-    "drawablecolor_ic_spine_long_cap": -14575885,
-    "simple_bg_color": -14474449,
-    "color_link": -10166653,
-    "color_primary_dark_800": -14671824,
-    "simple_bg_secondary_color": -13684928,
-    "simple_accent_color": -1814140,
-    "drawablecolor_ic_channel_text": -12409355,
-    "drawablecolor_drawable_button_grey": -12409355,
-    "color_brand_560": -16516367,
-    "primary_dark_400": 6610563,
-    "drawablecolor_ic_ban_red_24dp": -1441537
+{
+    "manifest": {
+        "author": "taskylizard",
+        "name": "Cherry",
+        "updater": "https:\/\/raw.githubusercontent.com\/taskylizard\/aliuwucord\/main\/Cherry.json",
+        "version": "2.5"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/732742905613123722\/875609276117286952\/ProductSans.ttf"
+    },
+    "simple_colors": {
+        "accent": -1814140,
+        "background": -14474449,
+        "background_secondary": -13553344,
+        "mention_highlight": -13948096
+    },
+    "colors": {
+        "brand_560": -16516367,
+        "link": -7287815,
+        "primary_dark_400": -6499927,
+        "primary_dark_800": -14277054,
+        "brand_new_560": -16516367,
+        "uikit_btn_bg_color_selector_red": -2439708,
+        "accent_material_dark": -9513584
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -12409355,
+        "ic_ban_red_24dp": -1441537,
+        "ic_channel_text": -12409355,
+        "ic_spine_long_cap": -14575885,
+        "ic_sidebar_pins_off_dark_24dp": -9459234,
+        "ic_sidebar_notifications_off_dark_24dp": -9459234,
+        "ic_sidebar_search_24dp": -9459234,
+        "ic_sidebar_notifications_on_dark_24dp": -9459234,
+        "ic_settings_24dp": -65445,
+        "ic_sidebar_pins_on_dark_24dp": -9459234,
+        "ic_guild_settings_24dp": -9459234,
+        "drawable_voice_sensitivity_progress": -2439708,
+        "ic_channel_text_nsfw": -65536,
+        "ic_channel_voice": -1192619,
+        "ic_channel_announcements": -2490290,
+        "ic_thread": -9779831,
+        "ic_menu_24dp": -11173206,
+        "ic_channel_text_locked": -1212249,
+        "ic_add_reaction_grey_16dp": -1795490,
+        "ic_exit_to_app_dark_24dp": -65536,
+        "ic_channel_announcements_thread_nsfw": -65536,
+        "ic_thread_grey_18dp": -9779831,
+        "ic_thread_grey_24dp": -9779831,
+        "ic_thread_white_24dp": -9779831,
+        "ic_search": -9459234
+    }
 }
