@@ -2,7 +2,9 @@ send help im dying oh my god
 
 Note: Do NOT change the json directly, use plugin settings or themer app instead. Also, make your themes in normal dark mode, not the experimental amoled mode. 
 
-### Basic format for themes:
+[TOC]
+
+#### Basic format for themes:
 
 ```json
 {
@@ -50,6 +52,20 @@ All of these are direct links, so keep that in mind when adding your own.
 | Overlay Alpha | `"overlay_alpha"` | Darkens the image. | 0-255 |
 | Blur Radius | `"blur_radius"` | Changes the blur radius of the image,`25` makes the transparency fully opaque, `0` for full. | 0-25 |
 
+##### Fonts
 
+Note: These will require you a direct link to a `.ttf` or `.otf` font.
+
+|Options|Description|
+|-------|------|
+|`*`|Changes everything, pretty much.|
+|`ginto_bold`|Changes categories, channel names, user settings headers.|
+|`ginto_medium`| Changes channel name in members list, user setting category names.|
+|`ginto_regular`| Found none that changed.|
+|`roboto_medium_numbers`| Found none that changed. |
+|`sourcecodepro_semibold`| Found none that changed. |
+|`whitney_bold`| Changes server template names, and invites.|
+|`whitney_medium`| Changes message text, channel names, button names. |
+|`whitney_semibold`| Changes selected channel name and DM list name.|
 
 #### These are unfinished docs, take the L.
