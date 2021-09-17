@@ -40,7 +40,7 @@ All of these are direct links, so keep that in mind when adding your own.
 | Name | `"name"`| Set when making a new theme, can be changed.| Yes.|
 | Updater| `"updater"`| Can only be set to `raw.githubusercontent.com` links. | No.|
 | Version | `"version"`| By default sets to `1.0.0` for you, can be changed, needs version bump to update themes for everyone. | Yes.|
-| License | `"license"` | Can be set to whatever, see `https://choosealicense.com/`;`https://creativecommons.org/choose/`. this is not legal advice. | No.|
+| License | `"license"` | Can be set to whatever, see `https://choosealicense.com/`;`https://creativecommons.org/choose/`, this is not legal advice. | No.|
 
 ##### Background
 |Background||||
