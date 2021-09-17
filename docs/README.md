@@ -1,8 +1,6 @@
 send help im dying oh my god
 
-Note: Do NOT change the json directly, use plugin settings or themer app instead. Also, make your themes in normal dark mode, not the experimental amoled mode. 
-
-
+**Note: Do NOT change the json directly, use plugin settings or themer app instead. Also, make your themes in normal dark mode, not the experimental amoled mode.** 
 
 - [Basic format for themes:](#basic-format-for-themes-)
     + [Supported hosts for fonts/images:](#supported-hosts-for-fonts-images-)
@@ -55,7 +53,7 @@ All of these are direct links, so keep that in mind when adding your own.
 |Background||||
 |------|----|-----|----|
 | Name | JSON Key| Value(s)| Options|
-| Url | `"url"` | A *direct* link to any background, usual phone resolutions are preferred, only supports certain hosts for security reasons. | See [#supported-hosts-for-fonts/images](https://github.com/taskylizard/aliuwucord/tree/main/docs#supported-hosts-for-fontsimages) for options.|
+| Url | `"url"` | A *direct* link to any background, usual phone resolutions are preferred, only supports certain hosts for security reasons. | See [this](#supported-hosts-for-fonts-images) for options.|
 | Overlay Alpha | `"overlay_alpha"` | Darkens the image. | 0-255 |
 | Blur Radius | `"blur_radius"` | Changes the blur radius of the image,`25` makes the transparency fully opaque, `0` for full. | 0-25 |
 
