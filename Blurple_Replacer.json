@@ -2,7 +2,7 @@
     "manifest": {
         "author": "taskylizard",
         "name": "Blurple Replacer\n",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "license": "Unlicense",
         "updater": "https:\/\/raw.githubusercontent.com\/taskylizard\/aliuwucord\/main\/Blurple_Replacer.json"
     },
