@@ -1,6 +1,6 @@
 ## aliuwucord
 
-### `Cherry v2.5`
+### `Cherry v2.6`
 
 Port of nullxception's [VSCode](https://github.com/nullxception/cherry-vscode)/[KDE themes](https://github.com/nullxception/cherry-kde-theme), this is a theme for [Aliucord](https://github.com/aliucord) that doesn't suck shit.
 
@@ -15,6 +15,7 @@ Pay nullxception's themes a visit if you like this.
 
 ## Issues:  
 
-- Ping being kinda ass.
+- None.
+
 
 

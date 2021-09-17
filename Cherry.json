@@ -11,10 +11,10 @@
         "*": "https:\/\/cdn.discordapp.com\/attachments\/732742905613123722\/875609276117286952\/ProductSans.ttf"
     },
     "simple_colors": {
-        "accent": -43378,
         "background": -14474449,
         "background_secondary": -13553344,
-        "mention_highlight": -13948096
+        "mention_highlight": 1052780891,
+        "accent": -43378
     },
     "colors": {
         "brand_560": -16516367,
@@ -24,7 +24,8 @@
         "brand_new_560": -16516367,
         "uikit_btn_bg_color_selector_red": -2439708,
         "accent_material_dark": -9513584,
-        "primary_dark_300": -9459234
+        "primary_dark_300": -9459234,
+        "brand_new_360": -43378
     },
     "drawable_tints": {
         "drawable_button_grey": -12409355,
@@ -51,6 +52,7 @@
         "ic_thread_grey_18dp": -9779831,
         "ic_thread_grey_24dp": -9779831,
         "ic_thread_white_24dp": -9779831,
-        "ic_search": -9459234
+        "ic_search": -9459234,
+        "ic_reply_24dp": -2086293
     }
 }
