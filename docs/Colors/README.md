@@ -1,4 +1,28 @@
-`uikit_btn_bg_selector_red`
+
+- [`link`](#-link-)
+- [`uikit_btn_bg_selector_red`](#-uikit-btn-bg-selector-red-)
+- [`uikit_btn_bg_color_selector_green`](#-uikit-btn-bg-color-selector-green-)
+
+<h1></h1>
+
+###### `link`
+
+Self explantory, just changes link colors, also hyperlinked text as well.
+
+
+<img src="https://cdn.discordapp.com/attachments/819172980184973343/888493516613877780/IMG_20210918_000502.JPG" height=100>
+
+<h1></h1>
+
+`brand_new_560`
+
+Changes the color of reaction border.
+
+<img src="https://cdn.discordapp.com/attachments/819172980184973343/888493516349648906/IMG_20210918_000514.JPG" height=100>
+
+<h1></h1>
+
+###### `uikit_btn_bg_selector_red`
 
 Changes the Uninstall button color in Plugin settings, the `---- NEW MESSAGES ----` header in chat, and the ping bubble `(1)` in server icon/channel list.
 
@@ -7,11 +31,14 @@ Changes the Uninstall button color in Plugin settings, the `---- NEW MESSAGES --
 |------------|-------------|--------|
 |<img src="https://cdn.discordapp.com/attachments/819172980184973343/888363863752470528/IMG_20210917_152829.JPG?width=381&height=567" height=250> |<img src="https://cdn.discordapp.com/attachments/819172980184973343/888363864255770674/IMG_20210917_152746.JPG">| <img src="https://cdn.discordapp.com/attachments/819172980184973343/888363864075411466/IMG_20210917_152802.JPG"> |
 
-`uikit_btn_bg_color_selector_green`
+<h1></h1>
+
+###### `uikit_btn_bg_color_selector_green`
 
 Changse the color for the online status, does not work for the mobile counterpart for some reason.
 
 |In member list| Bottom Bar|
 |--------------|-----------|
 |![Online icon](https://images-ext-1.discordapp.net/external/UobolBXcDHGXZSyIYOJQxk2JDNJy8Oi4u4-XUCzv8Vo/https/i.imgur.com/WV05Emph.jpg)|![Bottom Bar img](https://images-ext-1.discordapp.net/external/EFDqJUTmMk1-GHhhxqts1p-L58asEWOhfRiqkgESyP4/https/i.imgur.com/m1Rpqjdh.jpg)
+
 
