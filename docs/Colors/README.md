@@ -1,5 +1,6 @@
 
 - [`link`](#-link-)
+- [`primary_dark_8000`](#-primary-dark-8000-)
 - [`uikit_btn_bg_selector_red`](#-uikit-btn-bg-selector-red-)
 - [`uikit_btn_bg_color_selector_green`](#-uikit-btn-bg-color-selector-green-)
 
@@ -19,6 +20,14 @@ Self explantory, just changes link colors, also hyperlinked text as well.
 Changes the color of reaction border.
 
 <img src="https://cdn.discordapp.com/attachments/819172980184973343/888493516349648906/IMG_20210918_000514.JPG" height=100>
+
+<h1></h1>
+
+###### `primary_dark_8000`
+
+Changes the bottom navigation bar.
+
+<img src="https://cdn.discordapp.com/attachments/819172980184973343/888497232821772348/IMG_20210918_002008.JPG" height=50>
 
 <h1></h1>
 
