@@ -20,6 +20,9 @@ Note: Do NOT change the json directly, use plugin settings or themer app instead
     "drawable_tints": {}
 }
 ```
+###### Supported hosts for fonts/images:
+`raw.githubusercontent.com`//`gitlab.com`//`cdn.discordapp.com`//`media.discordapp.net`//`i.imgur.com`//`i.ibb.co`
+
 ##### Manifest
 | Manifest ||||
 |---------|--------|-------|------|
@@ -33,10 +36,10 @@ Note: Do NOT change the json directly, use plugin settings or themer app instead
 ##### Background
 |Background||||
 |------|----|-----|----|
-| Name | JSON Key| Value(s)| Required?|
-| Url | `"url"` | A *direct* link to any background, usual phone resolutions are preferred, only supports certain hosts for security reasons. Supported image hosts: `github.com`;`raw.githubusercontent.com`;`gitlab.com`;`cdn.discordapp.com`;`media.discordapp.net`;`i.imgur.com`;`i.ibb.co` | No.|
-| Overlay Alpha | `"overlay_alpha"` | Darkens the image, ranges from 0-255. | No. |
-| Blur Radius | `"blur_radius"` | Changes the blur radius of the image, ranges from 0-25. `25` makes the transparency fully opaque, `0` for full. | No. |
+| Name | JSON Key| Value(s)| Options|
+| Url | `"url"` | A *direct* link to any background, usual phone resolutions are preferred, only supports certain hosts for security reasons. |See #supported-hosts-for-fonts/images for options.|
+| Overlay Alpha | `"overlay_alpha"` | Darkens the image. | 0-255 |
+| Blur Radius | `"blur_radius"` | Changes the blur radius of the image,`25` makes the transparency fully opaque, `0` for full. | 0-25 |
 
 
 
