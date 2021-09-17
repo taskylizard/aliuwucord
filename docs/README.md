@@ -34,7 +34,7 @@ Note: Do NOT change the json directly, use plugin settings or themer app instead
 |Background||||
 |------|----|-----|----|
 | Name | JSON Key| Value(s)| Required?|
-| Url | `"url"` | A *direct* link to any background, usual phone resolutions are preferred, only supports certain hosts for security reasons. Supported image hosts: | No.|
+| Url | `"url"` | A *direct* link to any background, usual phone resolutions are preferred, only supports certain hosts for security reasons. Supported image hosts: `github.com`;`raw.githubusercontent.com`;`gitlab.com`;`cdn.discordapp.com`;`media.discordapp.net`;`i.imgur.com`;`i.ibb.co` | No.|
 | Overlay Alpha | `"overlay_alpha"` | Darkens the image, ranges from 0-255. | No. |
 | Blur Radius | `"blur_radius"` | Changes the blur radius of the image, ranges from 0-25. `25` makes the transparency fully opaque, `0` for full. | No. |
 
