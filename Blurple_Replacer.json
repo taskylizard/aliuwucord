@@ -2,8 +2,9 @@
     "manifest": {
         "author": "taskylizard",
         "name": "Blurple Replacer\n",
-        "version": "1.0.0",
-        "license": "Unlicense"
+        "version": "1.0.1",
+        "license": "Unlicense",
+        "updater": "https:\/\/raw.githubusercontent.com\/taskylizard\/aliuwucord\/main\/Blurple_Replacer.json"
     },
     "background": {},
     "fonts": {},
@@ -31,6 +32,7 @@
         "ic_spine_long_cap": -7151444,
         "ic_spine_long_no_cap": -7151444,
         "ic_spine_short_cap": -7151444,
-        "ic_spine_short_no_cap": -7151444
+        "ic_spine_short_no_cap": -7151444,
+        "ic_channel_announcements": -7151444
     }
 }
