@@ -46,7 +46,7 @@ All of these are direct links, so keep that in mind when adding your own.
 |Background||||
 |------|----|-----|----|
 | Name | JSON Key| Value(s)| Options|
-| Url | `"url"` | A *direct* link to any background, usual phone resolutions are preferred, only supports certain hosts for security reasons. |See #supported-hosts-for-fonts/images for options.|
+| Url | `"url"` | A *direct* link to any background, usual phone resolutions are preferred, only supports certain hosts for security reasons. | See [#supported-hosts-for-fonts/images](https://github.com/taskylizard/aliuwucord/tree/main/docs#supported-hosts-for-fontsimages) for options.|
 | Overlay Alpha | `"overlay_alpha"` | Darkens the image. | 0-255 |
 | Blur Radius | `"blur_radius"` | Changes the blur radius of the image,`25` makes the transparency fully opaque, `0` for full. | 0-25 |
 
