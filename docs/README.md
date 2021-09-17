@@ -21,7 +21,16 @@ Note: Do NOT change the json directly, use plugin settings or themer app instead
 }
 ```
 ###### Supported hosts for fonts/images:
-`raw.githubusercontent.com`//`gitlab.com`//`cdn.discordapp.com`//`media.discordapp.net`//`i.imgur.com`//`i.ibb.co`
+
+All of these are direct links, so keep that in mind when adding your own.
+
+- `raw.githubusercontent.com`
+- `gitlab.com`
+- `cdn.discordapp.com`
+- `media.discordapp.net`
+- `i.imgur.com`
+- `i.ibb.co`
+
 
 ##### Manifest
 | Manifest ||||
