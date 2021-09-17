@@ -2,7 +2,14 @@ send help im dying oh my god
 
 Note: Do NOT change the json directly, use plugin settings or themer app instead. Also, make your themes in normal dark mode, not the experimental amoled mode. 
 
-[TOC]
+
+
+- [Basic format for themes:](#basic-format-for-themes-)
+    + [Supported hosts for fonts/images:](#supported-hosts-for-fonts-images-)
+  * [Manifest](#manifest)
+  * [Background](#background)
+  * [Fonts](#fonts)
+- [These are unfinished docs, take the L.](#these-are-unfinished-docs--take-the-l)
 
 #### Basic format for themes:
 
