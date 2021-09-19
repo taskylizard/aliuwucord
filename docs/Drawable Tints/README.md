@@ -1,6 +1,6 @@
-
-  * [`ic_channel_text`](#-ic-channel-text-)
-- [Notes](#notes)
+  - [`ic_channel_text`](#-ic-channel-text-)
+  - [Status Icons (DND, Idle, Online)](#status-icons--dnd--idle--online-)
+  - [Notes](#notes)
 
 ###### `ic_channel_text`
 
@@ -16,6 +16,7 @@ Themes the `#` in top bar beside the channel name, doesn’t theme the name thou
 |-|-|
 |<img src="https://i.imgur.com/mOr4YFQ.jpg">|<img src="https://i.imgur.com/v1XrIt7.jpg">|
 
+<h1></h1>
 
 ##### Notes
 
