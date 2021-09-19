@@ -3,7 +3,7 @@
 - [`primary_dark_8000`](#-primary-dark-8000-)
 - [`uikit_btn_bg_selector_red`](#-uikit-btn-bg-selector-red-)
 - [`uikit_btn_bg_color_selector_green`](#-uikit-btn-bg-color-selector-green-)
-
+- [Notes](#notes)
 <h1></h1>
 
 ###### `link`
@@ -50,4 +50,12 @@ Changse the color for the online status, does not work for the mobile counterpar
 |--------------|-----------|
 |![Online icon](https://images-ext-1.discordapp.net/external/UobolBXcDHGXZSyIYOJQxk2JDNJy8Oi4u4-XUCzv8Vo/https/i.imgur.com/WV05Emph.jpg)|![Bottom Bar img](https://images-ext-1.discordapp.net/external/EFDqJUTmMk1-GHhhxqts1p-L58asEWOhfRiqkgESyP4/https/i.imgur.com/m1Rpqjdh.jpg)
 
+<h1></h1>
 
+###### Notes
+
+- You can always use [Juby210's discord-jadx](https://gitdab.com/Juby210/discord-jadx/src/branch/alpha/app/src/main/res/drawable) repo, and also for Wingio's Custom Badges plugin, simply search whatever you want and filter out by `ic_profile_badge` if you were looking for profile badges.
+
+![moderator-discord-jadx](https://i.imgur.com/jczr9zg.png)
+
+- It's best to theme full white solid colored icons like `ic_emoji_picker_category_nature` (leaf emoji).
