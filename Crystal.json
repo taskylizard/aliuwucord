@@ -1,0 +1,50 @@
+{
+    "manifest": {
+        "name": "Crystal",
+        "version": "1.0.0",
+        "author": "taskylizard",
+        "license": "Unlicense",
+        "updater": "https:\/\/raw.githubusercontent.com\/taskylizard\/aliuwucord\/main\/Crystal.json"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "blur_radius": 0,
+        "url": "file:\/\/\/storage\/emulated\/0\/Download\/1zi6b576lu961.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 2097152000,
+        "background_secondary": 307654911,
+        "mention_highlight": 1041780608,
+        "accent": -5407038
+    },
+    "colors": {
+        "brand_new_560": -9459234,
+        "link": -11824171,
+        "brand_new_360": -14520653,
+        "primary_dark_300": -7094298
+    },
+    "drawable_tints": {
+        "ic_ban_red_24dp": -1441537,
+        "drawable_button_grey": -12409355,
+        "ic_channel_text": -12409355,
+        "ic_spine_long_cap": -14575885,
+        "ic_sidebar_pins_off_dark_24dp": -9459234,
+        "ic_sidebar_notifications_off_dark_24dp": -9459234,
+        "ic_sidebar_search_24dp": -9459234,
+        "ic_sidebar_notifications_on_dark_24dp": -9459234,
+        "ic_settings_24dp": -65445,
+        "ic_sidebar_pins_on_dark_24dp": -9459234,
+        "ic_guild_settings_24dp": -9459234,
+        "drawable_voice_sensitivity_progress": -2439708,
+        "ic_channel_text_nsfw": -65536,
+        "ic_channel_voice": -1192619,
+        "ic_channel_announcements": -2490290,
+        "ic_thread": -9779831,
+        "ic_menu_24dp": -11173206,
+        "ic_channel_text_locked": -1212249,
+        "ic_add_reaction_grey_16dp": -1795490,
+        "ic_exit_to_app_dark_24dp": -65536,
+        "ic_channel_announcements_thread_nsfw": -65536
+    }
+}
