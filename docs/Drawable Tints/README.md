@@ -10,6 +10,13 @@ Themes the `#` in top bar beside the channel name, doesn’t theme the name thou
 
 <h1></h1>
 
+###### Status Icons (DND, Idle, Online)
+
+|Status picker:|Editor:|
+|-|-|
+|<img src="https://i.imgur.com/mOr4YFQ.jpg">|<img src="https://i.imgur.com/v1XrIt7.jpg">|
+
+
 ##### Notes
 
 - You can always use [Juby210's discord-jadx](https://gitdab.com/Juby210/discord-jadx/src/branch/alpha/app/src/main/res/drawable) repo, and also for Wingio's Custom Badges plugin, simply search whatever you want and filter out by `ic_profile_badge` if you were looking for profile badges.
