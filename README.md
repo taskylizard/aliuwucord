@@ -17,5 +17,14 @@ Pay nullxception's themes a visit if you like this.
 
 - None.
 
+<h1></h1>
 
+### `Crystal v1.0`
+
+Blueish theme with purpleish accents, aimed to give you a true discord experience.
+
+#### Preview:
+> <p align="left">
+>   <img src="assets/preview-crystal.JPG" width="320">
+> </p>
 
