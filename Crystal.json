@@ -1,7 +1,7 @@
 {
     "manifest": {
         "name": "Crystal",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "taskylizard",
         "license": "Unlicense",
         "updater": "https:\/\/raw.githubusercontent.com\/taskylizard\/aliuwucord\/main\/Crystal.json"
@@ -9,7 +9,7 @@
     "background": {
         "overlay_alpha": 0,
         "blur_radius": 0,
-        "url": "file:\/\/\/storage\/emulated\/0\/Download\/1zi6b576lu961.png"
+        "url": "https:\/\/i.imgur.com\/ReDqf2P.png"
     },
     "fonts": {},
     "simple_colors": {
