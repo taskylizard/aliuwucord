@@ -1,5 +1,5 @@
   - [`ic_channel_text`](#-ic-channel-text-)
-  - [Status Icons (DND, Idle, Online)](#status-icons--dnd--idle--online-)
+  - [Status Icons (DND, Idle, Online)](#status-icons-dnd-idle-online)
   - [Notes](#notes)
 
 ###### `ic_channel_text`
