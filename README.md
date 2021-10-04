@@ -36,6 +36,6 @@ Cozy theme that doesn't bleed your eyes.
 
 #### Preview:
 > <p align="left">
->   <img src="https://i.ibb.co/5jrY23n/IMG-20211004-220426.jpg">
+>   <img src="https://i.ibb.co/5jrY23n/IMG-20211004-220426.jpg" width="320">
 > </p>
 
