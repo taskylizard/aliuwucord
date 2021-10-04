@@ -28,3 +28,14 @@ Blueish theme with purpleish accents, aimed to give you a true discord experienc
 >   <img src="assets/preview-crystal.JPG" width="320">
 > </p>
 
+<h1></h1>
+
+### `Dispersion v1.0`
+
+Cozy theme that doesn't bleed your eyes.
+
+#### Preview:
+> <p align="left">
+>   <img src="https://i.ibb.co/5jrY23n/IMG-20211004-220426.jpg">
+> </p>
+
