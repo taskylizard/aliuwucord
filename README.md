@@ -3,10 +3,10 @@
 My themes for the [Aliucord](https://aliucord.com) discord mobile mod.
 
 ## Themes
-
+| Themes |
 |---|---|---|---|
 | Cherry | Crystal | Dispersion | Zen |
-
+||||
 
 ### How to install?
 
