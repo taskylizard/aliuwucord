@@ -11,18 +11,22 @@
     "simple_colors": {
         "background": -15329251,
         "background_secondary": -14934234,
-        "mention_highlight": 1194570700
+        "mention_highlight": 1194570700,
+        "blocked_bg": -14934234
     },
     "colors": {
-        "link": -13388852,
+        "link": -10386501,
         "brand_new_500": -13388852,
-        "primary_dark_100": -15197408,
         "primary_dark_400": -13388852,
         "brand_new_360": -4022574,
-        "primary_dark_300": -9459234
+        "primary_dark_300": -9459234,
+        "primary_630": -14934234,
+        "link_500": -4142347,
+        "abc_tint_switch_track": -13678998,
+        "transparent": -14934234
     },
     "drawable_tints": {
-        "ic_ban_red_24dp": -7094298,
+        "ic_ban_red_24dp": -5580801,
         "drawable_button_grey": -12409355,
         "ic_channel_text": -12409355,
         "ic_spine_long_cap": -14575885,
@@ -37,19 +41,17 @@
         "ic_channel_text_nsfw": -65536,
         "ic_channel_voice": -1192619,
         "ic_channel_announcements": -2490290,
-        "ic_thread": -9779831,
+        "ic_thread": -9437280,
         "ic_menu_24dp": -11173206,
         "ic_channel_text_locked": -1212249,
         "ic_add_reaction_grey_16dp": -1795490,
         "ic_exit_to_app_dark_24dp": -65536,
         "ic_channel_announcements_thread_nsfw": -65536,
-        "ic_status_online_16dp": -16711797,
-        "ic_status_dnd_16dp": -65536,
-        "ic_status_streaming_16dp": -10616577,
-        "ic_status_invisible_16dp": -9211021,
-        "ic_status_idle_16dp": -24832,
         "drawable_overlay_channels_selected_dark": -13946821,
         "drawable_overlay_channel_pressed_dark": -12827821,
-        "design_bottom_navigation_item_background": -13946821
-    }
+        "design_bottom_navigation_item_background": -13946821,
+        "drawable_voice_indicator_speaking": -2439708,
+        "ic_channel_topic_ellipsis_dark": -10116609
+    },
+    "raws": {}
 }
